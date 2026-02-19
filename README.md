@@ -195,8 +195,5 @@ Possible improvements:
 
 ---
 
-# 📜 License
-
-MIT License.
 
 
